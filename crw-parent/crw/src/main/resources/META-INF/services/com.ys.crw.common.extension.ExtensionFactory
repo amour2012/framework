@@ -1,0 +1,3 @@
+com.ys.crw.common.extension.factory.AdaptiveExtensionFactory
+com.ys.crw.common.extension.factory.SpiExtensionFactory
+com.ys.crw.spring.extension.SpringExtensionFactory
